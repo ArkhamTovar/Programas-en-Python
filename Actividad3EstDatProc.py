@@ -190,7 +190,7 @@ def ConsultarPorFechas():
                         print()
                         print()
                         break
-                    break
+                    
 
 #Funcion para buscar los servicios en un rango de fecha
 def FiltroFecha():
